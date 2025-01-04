@@ -23,7 +23,7 @@
 ## Developer 👨‍💻
 
 This project was developed by **Himanshu Singh**.  
-Check out more of my work on GitHub: [Himanshu Singh - GitHub](https://github.com/HimanshuSinghDev)
+Check out more of my work on GitHub: [Himanshu Singh - GitHub](https://github.com/himanshu-21-0)
 
 ---
 
